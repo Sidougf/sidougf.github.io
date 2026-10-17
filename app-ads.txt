@@ -1,0 +1,3 @@
+# app-ads.txt لتطبيق Aljami (dz.aljami.app)
+# يُضاف سطر كل شبكة وساطة تُفعَّل (من لوحتها). انظر app_flutter/ADMOB_SETUP.md
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0   ← ضع معرّف الناشر من AdMob واحذف # من أوّل السطر

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "ads": {
+    "enabled": true,
+    "rewarded": true,
+    "interstitial": true,
+    "banner": true,
+    "rewardedPerDay": 6,
+    "interstitialPerDay": 4,
+    "interstitialMinGapMinutes": 5,
+    "graceDays": 2,
+    "reportEmail": ""
+  },
+  "contact": {
+    "whatsapp": "",
+    "email": "",
+    "orderUrl": ""
+  },
+  "sponsors": [],
+  "competition": null,
+  "shop": {
+    "products": [],
+    "affiliates": []
+  },
+  "donate": null,
+  "youtube": {
+    "channel": "",
+    "videos": {}
+  },
+  "schools": {
+    "enabled": true,
+    "contact": ""
+  },
+  "bem_date": "2027-06-01"
+}
